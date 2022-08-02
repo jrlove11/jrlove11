@@ -3,7 +3,7 @@
 
 [comment]: <> (header)
 
-![lightheader](Assets/header.png)
+![header](Assets/header.png)
 
 
 
@@ -19,4 +19,4 @@ ___
 
 
 [comment]: <> (footer)
-![lightheader](Assets/footer.png)
+![footer](Assets/footer.png)
