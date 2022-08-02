@@ -1,16 +1,22 @@
-### Hi there 👋
+[comment]: <> (well hello!)
 
-<!--
-**jrlove11/jrlove11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[comment]: <> (header)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![lightheader](Assets/header.png)
+
+
+
+[comment]: <> (drop down section)
+___
+
+<details align="middle">
+<summary>Open profile</summary>
+<p> testing </p>
+</details>
+
+___
+
+
+[comment]: <> (footer)
+![lightheader](Assets/footer.png)
