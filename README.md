@@ -12,7 +12,19 @@ ___
 
 <details align="middle">
 <summary>Open profile</summary>
-<p> testing </p>
+
+___
+
+<h4> Languages </h4>
+
+___
+
+<details align="middle">
+<summary> Trophies </summary>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jrlove11&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
+
 </details>
 
 ___
