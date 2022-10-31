@@ -9,7 +9,7 @@
 ___
 
 
-<a href="www.linkedin.com/in/jemroselove/" align="middle"> <img src="Assets/linkedin.png" alt="linkedin" width="35"/> </a>
+<a href="www.linkedin.com/in/jemroselove/"> <img src="Assets/linkedin.png" alt="linkedin" width="35"/> </a>
 ___
 
 ![Snake animation](https://github.com/jrlove11/jrlove11/blob/output/github-contribution-grid-snake.svg)
