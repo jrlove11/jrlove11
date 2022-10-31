@@ -7,7 +7,7 @@
 <h4 align="center">Connect with me:</h4>
 
 <p align="center">
-<a href="www.linkedin.com/in/jemroselove/">
+<a href="https://www.linkedin.com/in/jemroselove/">
 <img src="Assets/linkedin.png" alt="linkedin" width="35"/>
 </a></br> </br> </p>
 
