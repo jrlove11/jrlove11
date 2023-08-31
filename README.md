@@ -1,6 +1,8 @@
-<head><meta name="p:domain_verify" content="4a16382ad73a71cfc524ea3a20ab5c90"/></head>
 [comment]: <> (well hello! what are you doing here!)
 [comment]: <> (colours [#F1F7ED,#04080F])
+
+[comment]: <> (header)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=10:2191FB,50:BA274A,100:841C26&height=200&section=header&text=Hi%20there!&animation=fadeIn&fontSize=50&fontAlignY=40&fontColor=FFFFFF"/> </p>
 
 <h4 align="center">Connect with me:</h4>
 
