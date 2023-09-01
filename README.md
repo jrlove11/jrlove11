@@ -2,7 +2,7 @@
 [comment]: <> (colours [#F1F7ED,#04080F])
 
 [comment]: <> (header)
-<p align="center"><img src="assets/header.jpg"> </p>
+<p align="center"><img src=Assets/header.jpg> </p>
 
 <h4 align="center">Connect with me:</h4>
 
